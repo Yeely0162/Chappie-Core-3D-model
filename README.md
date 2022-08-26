@@ -6,6 +6,7 @@
 #### 3.按钮添加了关机图标
 #### 4.修改了部分细节
 #### V1版本：在up原基础上仅修改了屏幕内嵌
+![V1预览图](https://raw.githubusercontent.com/Yeely0162/Chappie-Core-3D-model/main/PreviewPhoto/V1.jpg)
 ### V2版本：修改了屏幕内嵌+修改了高度+添加了底壳（提供给不需要焊接插槽的朋友们！厚度能稍微低一点！）
 ### V3版本：修改了屏幕内嵌+高度不变+添加了底壳
 
